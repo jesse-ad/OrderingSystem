@@ -27,7 +27,7 @@ SEED USERS
 
 
 APPLICATION OVERVIEW
-The Union Swiss Ordering System is a Ruby on Rails web application developed to streamline the order management process between distributors and administrators.
+This Ordering System is a Ruby on Rails web application developed to streamline the order management process between distributors and administrators.
 
 The sytem provides a centralised platform where distributors can browse products, create and manage orders, and track progress of submitted orders. Adminstrators are able to manage products, distributors, pricing information, and monitor all orders within the system.
 
